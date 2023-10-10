@@ -7,3 +7,6 @@ h2{
 #conteudo-lista{
     text-align: left;
 }
+.subtitulo{
+    border: solid white 5px;
+}
