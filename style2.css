@@ -1,0 +1,8 @@
+#link{
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: lightskyblue;
+}

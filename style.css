@@ -11,10 +11,10 @@ h2{
     border: solid pink 5px;
 }
 #link:{
-    color: chocolate;
+    color: darkmagenta;
     text-decoration: none;
 }
 #link:hover{
-    color: hotpink;
+    color: lightskyblue;
 }
     
